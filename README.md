@@ -8,4 +8,16 @@ I decided to write this tool because I found the user interfaces of Ancestry.com
 
 I've started this tool as a way to develop the logic to perform that analyis.
 
+## TODO
+
+- Auto-generate API docs
+- Move code out of tests/parser.py into gedscope proper
+- Write unit tests
+- Setup CI
+- Functionality:
+    - Find by Birthdate
+    - Find by Location
+    - Find by occupation
+
+
 [GEDCOM]: (https://en.wikipedia.org/wiki/GEDCOM)
