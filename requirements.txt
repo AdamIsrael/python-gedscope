@@ -1,0 +1,4 @@
+asciitree
+python-Levenshtein
+git+https://github.com/seatgeek/fuzzywuzzy
+git+https://github.com/madprime/python-gedcom.git
